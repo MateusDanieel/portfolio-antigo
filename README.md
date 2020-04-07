@@ -1,2 +1,3 @@
 # PORTFÓLIO DE MATEUS DANIEL - DESENVOLVEDOR FRONT-END JR.
-# INSTALL AND RUN: GIT BASH > yarn install > yarn run gulp
+
+INSTALL AND RUN: GIT BASH > yarn install > yarn run gulp
