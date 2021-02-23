@@ -59,6 +59,10 @@
 			text-align: center;
 			font-weight: 700;
 		}
+		
+		h2 {
+			font-size: 16px;
+		}
 
 		a {
 			animation-name: animArrow;
